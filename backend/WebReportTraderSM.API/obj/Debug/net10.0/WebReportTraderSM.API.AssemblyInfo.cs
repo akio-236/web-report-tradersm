@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebReportTraderSM.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ae6ef12924e6f7459ec2bd4dfe487cf9669c035")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e7dbad348ee516b844bbccecca34dfdd9c66124")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebReportTraderSM.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebReportTraderSM.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

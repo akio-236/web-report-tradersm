@@ -1,10 +1,7 @@
+import HealthPage from "./pages/Health/HealthPage";
+
 function App() {
-  return (
-    <div>
-      <h1>ERP Dashboard</h1>
-      <p>Project setup complete 🚀</p>
-    </div>
-  );
+  return <HealthPage />;
 }
 
 export default App;
