@@ -22,3 +22,21 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# -----------------------------
+# .NET
+# -----------------------------
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.rsuser
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# Test Results
+TestResults/
