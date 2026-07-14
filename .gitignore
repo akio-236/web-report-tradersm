@@ -77,3 +77,19 @@ backend/.vs/
 *.tmp
 
 *.bak
+
+.vscode/
+
+*.db
+
+*.sqlite
+
+*.sqlite3
+
+.env.local
+
+.env.production
+
+coverage/
+
+TestResults/

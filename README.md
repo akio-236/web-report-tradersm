@@ -1,38 +1,102 @@
-# ERP Dashboard
+# WebReportTraderSM
 
-Enterprise dashboard built using
+An enterprise-grade reporting dashboard built using React and ASP.NET Core.
 
-- React
-- ASP.NET Core
-- SQL Server
+## 🚀 Tech Stack
 
-## Modules
-
-- Dashboard
-- Sales
-- Damage
-- Accounts
-- Profit & Loss
-- Income Statement
-- Aging
-
-## Tech Stack
-
-Frontend
-
+### Frontend
 - React
 - TypeScript
 - Vite
 
-Backend
+### Backend
+- ASP.NET Core (.NET 10)
+- REST API
 
-- ASP.NET Core
-- Entity Framework
+### Database
+- SQL Server (Planned)
 
-Database
+---
 
-- SQL Server
+## Features
 
-Status
+- Dashboard
+- Sales Reports
+- Product Reports
+- Accounts Reports
+- Income Statement
+- Profit & Loss
+- Aging Reports
+- Authentication
 
-🚧 Under Development
+---
+
+## Project Structure
+
+```
+web-report-tradersm/
+
+frontend/
+
+backend/
+
+database/
+
+docs/
+
+scripts/
+```
+
+---
+
+## Branch Strategy
+
+```
+main
+develop
+feature/*
+bugfix/*
+hotfix/*
+```
+
+---
+
+## Current Status
+
+🚧 Under Active Development
+
+---
+
+## Development Workflow
+
+Issue
+
+↓
+
+Feature Branch
+
+↓
+
+Development
+
+↓
+
+Pull Request
+
+↓
+
+Review
+
+↓
+
+Merge into develop
+
+↓
+
+Release to main
+
+---
+
+## License
+
+MIT
