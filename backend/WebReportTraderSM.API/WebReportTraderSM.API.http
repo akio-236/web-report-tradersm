@@ -1,4 +1,4 @@
-@WebReportTraderSM.API_HostAddress = http://localhost:5141
+@WebReportTraderSM.API_HostAddress = http://localhost:5020
 
 GET {{WebReportTraderSM.API_HostAddress}}/weatherforecast/
 Accept: application/json
